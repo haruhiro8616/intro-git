@@ -13,6 +13,12 @@
 # puts s.upcase!
 # 10 + 2 - 1
 
-name = 'Nakamura'
-n = name.include?('N')
-puts n
+# name = 'Nakamura'
+# n = name.include?('N')
+# puts n
+
+puts 'nakamura'
+print 'nakamura'
+p 'nakamura'
+
+
